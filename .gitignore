@@ -1,4 +1,6 @@
-Config/
 DerivedDataCache/
 Intermediate/
 Saved/
+.vs/
+*.sln
+Binaries/
